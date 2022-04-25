@@ -1,2 +1,1 @@
-# SnsProject
-hello world!!!
+String exGirlfriend = {"れいか", "なつみ", "みき", "りな"};
