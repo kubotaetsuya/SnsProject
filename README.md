@@ -82,3 +82,8 @@
 * JavaScript
 * Git
 * Mysql
+
+String exGirlfriend = {"れいか", "なつみ", "みき", "りな"};
+test
+test
+
